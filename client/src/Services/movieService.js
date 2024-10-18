@@ -1,4 +1,5 @@
-
+// I build this file to show that I can work without redux
+//is not related to any other file
 import axios from 'axios';
 
 const API_URL = 'http://localhost:6000/api/movie';
