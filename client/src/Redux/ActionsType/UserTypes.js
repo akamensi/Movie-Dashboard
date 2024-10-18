@@ -1,0 +1,5 @@
+export const SINGUP = "SINGUP"
+export const FAIL = "FAIL"
+export const SINGIN = "SINGIN"
+export const CURRENT = "CURRENT"
+export const LOGOUT = "LOGOUT"

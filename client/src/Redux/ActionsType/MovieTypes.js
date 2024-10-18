@@ -1,0 +1,3 @@
+export const GETMOVIES = 'GETMOVIES'
+export const GETONEMOVIE = 'GETONEMOVIE'
+export const GETMOVIEUSER = 'GETMOVIEUSER'
